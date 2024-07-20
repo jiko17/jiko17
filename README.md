@@ -11,3 +11,12 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats-jiko17s-projects.vercel.app/api?username=jiko17&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+
+
+# 📹 Favorite YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Learn To Code Like a GENIUS and Not Waste Time](https://ytcards.demolab.com/?id=q-_ezD9Swz4&title=Learn+To+Code+Like+a+GENIUS+and+Not+Waste+Time&lang=en&timestamp=1690147200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=580 "Learn To Code Like a GENIUS and Not Waste Time")](https://youtu.be/q-_ezD9Swz4?si=VsWjN3Byhmn3s1Xh)
+[![How to learn to code FAST using ChatGPT (it's a game changer seriously)](https://ytcards.demolab.com/?id=VznoKyh6AXs&title=Howto+learn+to+code+FAST+using+ChatGPT+(it's+a+game+changer+seriously)&lang=en&timestamp=1677782400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1319 "How to learn to code FAST using ChatGPT (it's a game changer seriously)")](https://youtu.be/VznoKyh6AXs?si=bLek8sD93lX_EyRQ)
+[![Yeriho - Sunday Flower (Full Album) [warm lofi beats to study/relax/work to 🎧]](https://ytcards.demolab.com/?id=QQxz9UnCsdg&title=Yeriho+-+Sunday+Flower+(Full+Album)+[warm+lofi+beats+to+study/relax/work+to+🎧]&lang=en&timestamp=1678320000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1023 "Yeriho - Sunday Flower (Full Album) [warm lofi beats to study/relax/work to 🎧]")](https://youtu.be/QQxz9UnCsdg?si=Ou8IYxufD59hMIsd)
+[![Mellow Groovy Soul Funk Vinyl Mix by mingsquall [4K]](https://ytcards.demolab.com/?id=nOiwf1u6qbc&title=Mellow+Groovy+Soul+Funk+Vinyl+Mix+by+mingsquall+[4K]&lang=en&timestamp=1683312000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1654 "Mellow Groovy Soul Funk Vinyl Mix by mingsquall [4K]")](https://youtu.be/nOiwf1u6qbc?si=aQbNrBOGgjiE0LCj)
+<!-- END YOUTUBE-CARDS -->
