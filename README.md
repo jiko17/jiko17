@@ -10,4 +10,4 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jiko17&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-jiko17s-projects.vercel.app/api?username=jiko17&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
